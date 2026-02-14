@@ -1,7 +1,6 @@
 numpy
 pandas
-cython
-scikit-learn==1.2.2
+scikit-learn
 xgboost
 joblib
 altair==4.2.2
